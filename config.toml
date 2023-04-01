@@ -1,7 +1,7 @@
 baseURL = 'https://kanta-mori.netlify.app/'
 languageCode = 'ja-jp'
 title = "Kanta's Blog"
-theme = 'loveIt'
+theme = 'loveit'
 
 enableEmoji = true
 
@@ -26,9 +26,6 @@ enableEmoji = true
     weight = 3
 
 [params]
-  gitRepo = "https://github.com/morikann/"
-  title = "Blog"
-  description = "Flutter/iOS Enginner"
 
   [params.header]
     [params.header.title]
