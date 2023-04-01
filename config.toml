@@ -11,18 +11,18 @@ enableEmoji = true
 
 [menu]
   [[menu.main]]
-    name = "Blog"
+    name = "Post"
     url = "/posts/"
     weight = 1
 
   [[menu.main]]
-    name = "Categories"
-    url = "/categories/"
+    name = "Tag"
+    url = "/tags/"
     weight = 2
 
   [[menu.main]]
-    name = "Tags"
-    url = "/tags/"
+    name = "Category"
+    url = "/categories/"
     weight = 3
 
 [params]
