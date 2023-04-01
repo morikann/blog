@@ -1,13 +1,11 @@
 ---
 title: "First Post"
 date: 2023-04-01T23:24:02+09:00
-draft: true
+draft: false
 ---
 
-# 初めてのブログ投稿
+# 初めての投稿
 
-23卒の森です。
-
-githubアカウントは[こちら](https://github.com/morikann)
+Flutter / iOS エンジニアの森です。
 
 これから、技術記事や日々考えていることを投稿していきます！
