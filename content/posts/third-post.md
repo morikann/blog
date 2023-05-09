@@ -47,7 +47,7 @@ Doctor summary (to see all details, run flutter doctor -v):
 ただし、警告を完全に消す方法として、Homebrew でインストールされた Dart をアンインストールすることができる。
 `$ brew uninstall dart`
 
-### Homebrew でインストールしたパッケージは、`/usr/local/bin` や `/usr/local/opt` ディレクトリに格納されており、macOS はデフォルトで `/usr/local/bin` がシステムの `PATH` に含まれている。
+### Homebrew でインストールしたパッケージは、`/usr/local/bin` や `/usr/local/opt` ディレクトリに格納されており、macOS はデフォルトで `/usr/local/bin` がシステムの `PATH` に含まれている
 つまり、homebrew で入れたものは自動的に path に設定される。
 これにより、ターミナルでそのパッケージのコマンドをすぐに実行できるようになる。
 
