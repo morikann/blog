@@ -1,5 +1,5 @@
 ---
-title: "Second Post"
+title: "名前空間用のインスタンス化されないクラスを定義する"
 date: 2023-05-09T08:08:48+09:00
 draft: true
 ---
