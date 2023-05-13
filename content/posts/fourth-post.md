@@ -84,6 +84,7 @@ categories: ["ショートカット"]
 - `command + option + space`：Finder を開く
 - `command + shift + G` : filePathを入力できるようになり、pathがわかれば該当の箇所まで飛べる
 - `command + ↑` : 下位層のディレクトリに移動。例えば、ホームディレクトリからこれを使っていくことによって、一番最下層のMacintosh HDまで移動できる。
+- `command + shift + .`：隠しファイル・フォルダを表示
 
 ### Mac
 - 音量
