@@ -2,6 +2,8 @@
 title: "画面に対応するコードの見つけ方"
 date: 2023-05-12T08:38:50+09:00
 draft: false
+tags: ["Flutter", "VSCode"]
+categories: ["Flutter"]
 ---
 
 1. `Widget Inspector` を開く

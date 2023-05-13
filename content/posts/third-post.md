@@ -2,6 +2,8 @@
 title: "fvm flutter doctor：! Warning: `dart` on your path resolves to /usr/local/Cellar/dart/2.19.5/libexec/bin/dart, which is not inside your current Flutter SDK ~ の解決策"
 date: 2023-05-10T08:12:58+09:00
 draft: false
+tags: ["Flutter", "ターミナル"]
+categories: ["Flutter"]
 ---
 
 `fvm flutter doctor`を実行した際に、pathに関する警告が出て困った経験があったので、その解決策を示す。
