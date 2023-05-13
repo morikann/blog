@@ -16,11 +16,13 @@ enableEmoji = true
     weight = 1
 
   [[menu.main]]
+    identifier = "tags"
     name = "Tag"
     url = "/tags/"
     weight = 2
 
   [[menu.main]]
+    identifier = "categories"
     name = "Category"
     url = "/categories/"
     weight = 3
