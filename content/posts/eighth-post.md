@@ -2,6 +2,8 @@
 title: "Templaterプラグインを使って、daily noteにテンプレートを挿入"
 date: 2023-05-14T23:16:13+09:00
 draft: false
+tags: ["Obsidian"]
+categories: ["Obsidian"]
 ---
 
 私は[obsidian](https://obsidian.md/)というアプリを使って、日々のTODO、メモの管理を行っています。
