@@ -2,6 +2,8 @@
 title: "VSCodeのデバッグ機能"
 date: 2023-05-16T22:44:28+09:00
 draft: false
+tags: ["VSCode", "Debug"]
+categories: ["VSCode"]
 ---
 
 右クリックで「ログポイントを追加」を選択すると、ログに出力する文字列を書くことができる。
