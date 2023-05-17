@@ -14,8 +14,7 @@ categories: ["Flutter"]
 
 また、`Widget`をコンポーネントとして切り出すときは、基本的に`private`にしますが、これもテストのために`public`にするのはあまり良い手段だとは言えません。
 
-...
-こんな悩みを解決するのが`@visibleForTesting`です！
+このような悩みを解決するのが`@visibleForTesting`です。
 
 ### @visibleForTestingって？
 
@@ -73,9 +72,9 @@ analyzer:
 !["visibleForTesting_error"](images/visibleForTesting_error.png)
 
 ### まとめ
-テストのために`private`なだったものを`public`にするのは微妙だな...という時に`@visibleForTesting`アノテーションが使えて便利ですね。
+`@visibleForTesting`アノテーションを使うことで不必要なコードの参照を検出できて便利。
 
-また、`Dart analysis`の機能を活用することで、警告をコンパイルエラーにして不必要な参照を防ぐことができます💪
+また、`Dart analysis`の機能を活用することで、警告をコンパイルエラー変更することができて素晴らしい💪
 
 ### 参考
 [meta library](https://api.flutter.dev/flutter/meta/meta-library.html)
