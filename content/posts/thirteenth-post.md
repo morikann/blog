@@ -2,6 +2,8 @@
 title: "VSCodeで書いたコードの構造を保つ"
 date: 2023-05-19T22:50:09+09:00
 draft: false
+tags: ["VSCode", "Obsidian"]
+categories: ["VSCode"]
 ---
 
 `VSCode`で書いたコードを`obsidian`にコピペすると、表示が崩れてしまいます。

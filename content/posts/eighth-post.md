@@ -2,7 +2,7 @@
 title: "Templaterプラグインを使って、daily noteにテンプレートを挿入"
 date: 2023-05-14T23:16:13+09:00
 draft: false
-tags: ["Obsidian, 自動化"]
+tags: ["Obsidian", "自動化"]
 categories: ["Obsidian"]
 ---
 

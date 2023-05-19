@@ -2,7 +2,7 @@
 title: "メソッドチェーンを利用して一時変数を省略する"
 date: 2023-05-13T23:01:15+09:00
 draft: false
-tags: ["Swift, Refactor"]
+tags: ["Swift", "Refactor"]
 categories: ["Swift"]
 ---
 
