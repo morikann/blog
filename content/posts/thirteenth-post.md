@@ -1,5 +1,5 @@
 ---
-title: "VSCodeで書いたコードの構造を保つ"
+title: "VSCodeで書いたコードの構造を保ったままobsidianにコピー&ペーストする"
 date: 2023-05-19T22:50:09+09:00
 draft: false
 tags: ["VSCode", "Obsidian"]
