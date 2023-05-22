@@ -2,7 +2,7 @@
 title: "hugoで空行を挿入する方法"
 date: 2023-05-21T19:12:09+09:00
 draft: false
-tags: ["Huog", "マークダウン"]
+tags: ["Hugo", "マークダウン"]
 categories: ["Hugo"]
 ---
 
