@@ -2,6 +2,8 @@
 title: "git tagって？"
 date: 2023-05-18T21:03:43+09:00
 draft: false
+tags: ["Git", "Github"]
+categories: ["Git"]
 ---
 
 業務において`git`の`tag`を使う場面があったのですが、あまりどんなものか分からず使っていました。
