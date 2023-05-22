@@ -98,6 +98,9 @@ categories: ["ショートカット"]
 
 - `command + shift + space`：絵文字を開く
 
+### iTerm
+- `fn + F`：toggle full screen
+
 ### 最後に
 他にこんなショートカットキーがあって便利だよ！などがございましたら是非教えていただきたいです。
 
