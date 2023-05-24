@@ -11,7 +11,7 @@ categories: ["Flutter"]
 Flutterのダイアログには、`AlertDialog`と`SimpleDialog`の2種類があります。
 
 この2種類のダイアログは`Dialog`という`widget`をラップして実装されています。
-3
+
 `Dialog widget`を直接使用することもできますが、公式では`AlertDialog`か`SimpleDialog`を使うことが推奨されています。
 
 > Rather than using this widget directly, consider using AlertDialog or SimpleDialog, which implement specific kinds of Material Design dialogs.
@@ -60,6 +60,7 @@ showDialog(
   },
 )
 ```
+![alt|300x300](images/dialog-before.png)
 
 !["dialog-before"](images/dialog-before.png)
 

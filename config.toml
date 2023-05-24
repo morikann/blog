@@ -1,7 +1,7 @@
 baseURL = 'https://kanta-mori.netlify.app/'
 languageCode = 'ja-jp'
 title = "Kanta's Blog"
-theme = 'loveit'
+theme = 'hugo-theme-stack'
 
 enableEmoji = true
 
