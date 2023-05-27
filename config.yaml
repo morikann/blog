@@ -21,6 +21,7 @@ disqusShortname: hugo-theme-stack
 
 # GA Tracking ID
 googleAnalytics:
+sectionPagesMenu: main
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
@@ -58,7 +59,7 @@ params:
             src: images/profile.png
 
     article:
-        math: false
+        math: true
         toc: true
         readingTime: true
         license:
@@ -188,7 +189,16 @@ params:
 ### See https://docs.stack.jimmycai.com/configuration/custom-menu.html
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
-    main: []
+  main:
+  - name: Home
+    pageRef: /
+    weight: 10
+#   - name: Archives
+#     pageRef: /archives
+#     weight: 20
+#   - name: Search
+#     pageRef: /search
+#     weight: 30
 
     social:
         - identifier: github
