@@ -191,8 +191,7 @@ params:
 menu:
   main:
   - name: Home
-    pageRef: /
-    weight: 10
+    url: /
 
 #   - name: Archives
 #     pageRef: /archives
