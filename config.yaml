@@ -192,13 +192,10 @@ menu:
   main:
   - name: Home
     url: /
-
-#   - name: Archives
-#     pageRef: /archives
-#     weight: 20
-#   - name: Search
-#     pageRef: /search
-#     weight: 30
+    weight: 10
+  - name: Archives
+    url: /archives
+    weight: 20
 
     social:
         - identifier: github
