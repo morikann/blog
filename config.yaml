@@ -193,6 +193,7 @@ menu:
   - name: Home
     pageRef: /
     weight: 10
+
 #   - name: Archives
 #     pageRef: /archives
 #     weight: 20
