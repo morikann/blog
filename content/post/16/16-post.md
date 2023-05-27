@@ -60,9 +60,8 @@ showDialog(
   },
 )
 ```
-![alt|300x300](images/dialog-before.png)
 
-!["dialog-before"](images/dialog-before.png)
+{{< figure src="/post/16/dialog-before.png" width="300">}}
 
 このダイアログに対して`insetPadding`を付与して`dialog`の横幅を画面いっぱいに広げるように指定します。
 
@@ -74,7 +73,7 @@ AlertDialog(
   ...
 ```
 
-!["dialog-meduim"](images/dialog-medium.png)
+{{< figure src="/post/16/dialog-medium.png" width="300">}}
 
 
 なんも変わらんやないかい！
@@ -94,7 +93,7 @@ AlertDialog(
 アウトプットしないと忘れてしまうから今後も続けていきたい😇
 
 ### 参考
-[InsetPadding not working correctly in AlertDialog / Dialog](https://github.com/flutter/flutter/issues/61154)
-[ConstrainedBox](https://api.flutter.dev/flutter/widgets/ConstrainedBox-class.html)
-[BoxConstraints](https://api.flutter.dev/flutter/rendering/BoxConstraints-class.html)
-[Dialog](https://api.flutter.dev/flutter/material/Dialog-class.html)
+- [InsetPadding not working correctly in AlertDialog / Dialog](https://github.com/flutter/flutter/issues/61154)
+- [ConstrainedBox](https://api.flutter.dev/flutter/widgets/ConstrainedBox-class.html)
+- [BoxConstraints](https://api.flutter.dev/flutter/rendering/BoxConstraints-class.html)
+- [Dialog](https://api.flutter.dev/flutter/material/Dialog-class.html)

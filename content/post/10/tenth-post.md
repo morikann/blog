@@ -14,7 +14,7 @@ categories: ["VSCode"]
 - printを消し忘れてコミットすることを防げる
 - リビルドしなくてもログに出力する文字列を変更したらすぐに反映される
 
-!["VSCodeDebug"](images/VSCode_Debug.png)
+!["VSCodeDebug"](/post/10/VSCode_Debug.png)
 
 
 ### 参考

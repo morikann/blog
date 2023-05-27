@@ -9,15 +9,15 @@ categories: ["Flutter"]
 1. `Widget Inspector` を開く
 2. `Select Widget Mode` をクリック
 
-![inspector](/images/inspector.png)
+![inspector](/post/5/inspector.png)
 
 3. 見つけたいコードのwidgetをクリック
 
-![button](/images/button.png)
+![button](/post/5/button.png)
 
 これでwidgetに対応するコードが見つかります。
 
 選択し直したい場合は、画面左下にある虫眼鏡アイコンをクリックして再度見つけたいコードのwidgetをクリックします。
 
-![inspector](/images/lens.png)
+![inspector](/post/5/lens.png)
 

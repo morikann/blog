@@ -13,7 +13,7 @@ Simulatorを選択状態で`command + R`で録画。
 
 | before | after |
 | --- | --- |
-| !["before-simulator"](images/before-simulator.png) | !["after-simulator"](images/after-simulator.png) |
+| !["before-simulator"](/post/9/before-simulator.png) | !["after-simulator"](/post/9/after-simulator.png) |
 
 
 ### 感想

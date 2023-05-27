@@ -82,10 +82,10 @@ child: const Text('OK'),
 
 1. `VSCode`右下にある言語（今回でいう`Dart`）を選択
 
-!["dart"](images/language-dart.png)
+!["dart"](/post/13/language-dart.png)
 
 2. 言語モード選択画面が出てくるので、プレーンテキストを選択する
 
-!["plain"](images/language-plain.png)
+!["plain"](/post/13/language-plain.png)
 
 これでコピペ & 貼り付けしてもコードの表示崩れが起きなくなります！

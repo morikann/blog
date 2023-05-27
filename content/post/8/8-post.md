@@ -25,12 +25,12 @@ categories: ["Obsidian"]
 2. optionからテンプレートファイルを格納するフォルダを設定
 
 
-!["templates"](images/templates.png)
+!["templates"](/post/8/templates.png)
 
 3. `04_Templates`配下に、テンプレートファイルを作成
 
 
-!["Daily_templates"](images/Daily_Templates.png)
+!["Daily_templates"](/post/8/Daily_Templates.png)
 
 4. テンプレートを作成するためのコマンドを記述
 
@@ -65,12 +65,12 @@ Last month: [[<% tp.date.now("YYYY-MM-DD", "P-1M", tp.file.title, "YYYY-MM-DD") 
 
 私は`daily note`が`02_Daily`フォルダ以下にあるため、そのフォルダに対して先ほど作成した`Daily_Template.md`を適応するように設定しています。
 
-!["setting_template"](images/settings_template.png)
+!["setting_template"](/post/8/settings_template.png)
 
 6. 完成！
 
 `daily note`を作成すると、以下のようにテンプレートが挿入されています🎉
-!["my_template"](images/my_templates2.png)
+!["my_template"](/post/8/my_templates2.png)
 
 
 ## まとめ

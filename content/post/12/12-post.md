@@ -23,8 +23,6 @@ categories: ["Git"]
 
 また、どのバージョンで起こったバグか分からない！といったときでも、`tag`を利用して各バージョンの動作検証をすることで、どのバージョンでバグが発生したのかを見つけることができます。
 
-&nbsp;
-
 その他にも以下のメリットがあるそうです。
 - Github上で、タグ付けした時点の圧縮ファイルをダウンロードできる
 - Github上で、タグがあるとリリースノートを作成できる
@@ -112,8 +110,6 @@ Date:   Mon May 22 21:21:24 2023 +0900
 次は`Github`上からタグを利用してリリースノートの自動生成とかやってみたい！
 
 ## 参考
-[Git の基本 - タグ](https://git-scm.com/book/ja/v2/Git-%E3%81%AE%E5%9F%BA%E6%9C%AC-%E3%82%BF%E3%82%B0)
-
-[【Git】git tag について全然知らなかったので色々と調べてみた](https://tec.tecotec.co.jp/entry/2022/12/14/000000)
-
-[git tagの使い方まとめ](https://qiita.com/growsic/items/ed67e03fda5ab7ef9d08)
+- [Git の基本 - タグ](https://git-scm.com/book/ja/v2/Git-%E3%81%AE%E5%9F%BA%E6%9C%AC-%E3%82%BF%E3%82%B0)
+- [【Git】git tag について全然知らなかったので色々と調べてみた](https://tec.tecotec.co.jp/entry/2022/12/14/000000)
+- [git tagの使い方まとめ](https://qiita.com/growsic/items/ed67e03fda5ab7ef9d08)

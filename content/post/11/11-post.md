@@ -48,7 +48,7 @@ Map<String, dynamic> toMap(String json) {
 
 上記のコードでは、`@visibleForTesting`アノテーションを付けているので他ファイルから参照すると以下のような警告が出ます。
 
-!["visibleForTesting_warning"](images/visibleForTesting_warning.png)
+!["visibleForTesting_warning"](/post/11/visibleForTesting_warning.png)
 
 
 ### 警告は無視できるじゃないか
@@ -69,7 +69,7 @@ analyzer:
 
 これで警告がコンパイルエラーに変わりました🎉
 
-!["visibleForTesting_error"](images/visibleForTesting_error.png)
+!["visibleForTesting_error"](/post/11/visibleForTesting_error.png)
 
 ### まとめ
 `@visibleForTesting`アノテーションを使うことで不必要なコードの参照を検出できて便利。
@@ -77,8 +77,6 @@ analyzer:
 また、`Dart analysis`の機能を活用することで、警告をコンパイルエラー変更することができて素晴らしい💪
 
 ### 参考
-[meta library](https://api.flutter.dev/flutter/meta/meta-library.html)
-
-[visibleForTesting](https://api.flutter.dev/flutter/meta/visibleForTesting-constant.html)
-
-[Flutterでテストコードだけが外部参照できるWidgetを組みたかった](https://scrapbox.io/kurogoma4d-lab/Flutter%E3%81%A7%E3%83%86%E3%82%B9%E3%83%88%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A0%E3%81%91%E3%81%8C%E5%A4%96%E9%83%A8%E5%8F%82%E7%85%A7%E3%81%A7%E3%81%8D%E3%82%8BWidget%E3%82%92%E7%B5%84%E3%81%BF%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F)
+- [meta library](https://api.flutter.dev/flutter/meta/meta-library.html)
+- [visibleForTesting](https://api.flutter.dev/flutter/meta/visibleForTesting-constant.html)
+- [Flutterでテストコードだけが外部参照できるWidgetを組みたかった](https://scrapbox.io/kurogoma4d-lab/Flutter%E3%81%A7%E3%83%86%E3%82%B9%E3%83%88%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A0%E3%81%91%E3%81%8C%E5%A4%96%E9%83%A8%E5%8F%82%E7%85%A7%E3%81%A7%E3%81%8D%E3%82%8BWidget%E3%82%92%E7%B5%84%E3%81%BF%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F)

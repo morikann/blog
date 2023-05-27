@@ -12,7 +12,7 @@ categories: ["Hugo"]
 
 | マークダウン | 結果 |
 | --- | --- |
-| !["markdwon-before"](images/space_before.png) | !["ブラウザ-before"](images/space_browzer_before.png) |
+| ![markdwonBefore](/post/15/spaceBefore.png) | !["ブラウザ-before"](/post/15/space_browzer_before.png) |
 
 ### `&nbsp;`で空行を挿入できた
 
@@ -20,7 +20,7 @@ categories: ["Hugo"]
 
 | マークダウン | 結果 |
 | --- | --- |
-| !["markdown-after"](images/space_markdwon_after.png) | !["space-browzer"](images/space_browzer_after.png) |
+| !["markdown-after"](/post/15/space_markdwon_after.png) | !["space-browzer"](/post/15/space_browzer_after.png) |
 
 ### 参考
 https://open-groove.net/other-tools/markdown-multi-blanklines-hugo/
