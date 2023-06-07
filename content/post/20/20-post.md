@@ -16,6 +16,9 @@ emptyオプションを使用してflutterプロジェクトを作成するこ�
 - `Hello World`のみが表示されるシンプルなプロジェクトが生成される
 - `test`ディレクトリは作成されない
 
+このオプションのドキュメントはなさそうなので、この[issue](https://github.com/flutter/flutter/issues/113853)と[プルリク](https://github.com/flutter/flutter/pull/113873)を読むしかなさそうです🤔
+
+
 作成されるプロジェクトの外観は以下です。
 
 {{< figure src="/post/20/empty.png" width="300">}}
