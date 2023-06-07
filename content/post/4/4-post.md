@@ -47,6 +47,7 @@ categories: ["ショートカット"]
 - `command + T`：シンボル名で検索
 - `ctrl + -`：元にいた場所に戻る
 - `command + B`：サイドバーの表示、非表示を切り替える
+- `control + shift + R`：Widgetをラップしたり、削除したりする（Flutter）
 
 ### Obsidian
 - `command + K`：外部リンクの挿入
