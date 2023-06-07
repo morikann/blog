@@ -15,13 +15,21 @@ emptyオプションを使用してflutterプロジェクトを作成するこ�
 	- `flutter create`でプロジェクトを作成すると余分なコメントが多くて毎回消すの大変
 - `Hello World`のみが表示されるシンプルなプロジェクトが生成される
 - `test`ディレクトリは作成されない
+- `README.md`の内容がシンプル
 
 このオプションのドキュメントはなさそうなので、この[issue](https://github.com/flutter/flutter/issues/113853)と[プルリク](https://github.com/flutter/flutter/pull/113873)を読むしかなさそうです🤔
-
 
 作成されるプロジェクトの外観は以下です。
 
 {{< figure src="/post/20/empty.png" width="300">}}
+
+そして、`README.md`は以下です。
+
+```md
+# [プロジェクト名]
+
+A new Flutter project.
+```
 
 ## まとめ
 --emptyオプションを利用することで毎回消すのがめんどくさいコメントが排除されたプロジェクトを生成してくれて便利ですね！
